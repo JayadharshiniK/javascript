@@ -53,6 +53,7 @@ console.log(user2);
 
 let user3 = "Dr.\tNavin Mohan"
 console.log(user3);
+console.log(typeof user3)
 
 //BOOLEAN
 let bool = 5 < 6

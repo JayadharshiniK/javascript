@@ -22,4 +22,4 @@ function alien1(name, tech) {
 
 }
 
-let alien1 = new Alien("NAVIN", "JS")   //"new" keyword creates a new object for us
+// let alien1 = new Alien("NAVIN", "JS")   //"new" keyword creates a new object for us

@@ -24,6 +24,8 @@ for (let key in emply.laptop) {
 // delete alien.laptop
 // delete alien.tech
 
+//The JavaScript for in statement loops through the properties of an Object;
+
 
 // console.log(key, emply[key]);----for fetching key and its value;
 // console.log(emply.laptop.brand?.length)  
