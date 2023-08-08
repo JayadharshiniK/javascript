@@ -18,3 +18,7 @@ for(let [k,v] of map){
 // for updating the given a value in a map
 // altering the value in the map:- set new value with the same key
 // map.set("Kiran", "Blockchain");
+
+map.forEach((v,k) => {
+    console.log(k, ":", v);
+});

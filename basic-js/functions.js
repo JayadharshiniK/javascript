@@ -59,5 +59,8 @@ greet("Jennifer", "Mary")
 function sum (number1, number2){
     console.log(number1 + number2)
 }
-
 sum(45, 55)
+
+//Parameter:- is the given in the definiton of function;
+//Argument:- is given while calling a function; 
+//Return:- Keyword used to return the value defined the function to whoever is calling this function;

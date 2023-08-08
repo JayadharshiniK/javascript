@@ -51,7 +51,7 @@ console.log(shift);
 
 
 //4. SPLICE METHOD: //breaking down into two parts:
-
+console.log(" SPLICE METHOD");
 let list = [1,2,3,4,5,6]
 console.log(list.splice(4,1, 11));      //4= Index number;  1= No.of values you want to remove;  11=Is the number inserted in the palce of deleted;
 
